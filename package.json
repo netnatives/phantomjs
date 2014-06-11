@@ -5,7 +5,7 @@
     "phantomjs",
     "headless",
     "webkit"
-  ],
+  ], 
   "description": "Headless WebKit with JS API",
   "homepage": "https://github.com/Obvious/phantomjs",
   "repository": {
